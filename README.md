@@ -8,6 +8,10 @@ A library that provides customizable ring visualization of data, and you can als
     <img src="./docs/screenshot.png?raw=true" />
 </p>
 
+<p align="center">
+    <img src="./docs/screenshot-graph.png?raw=true" />
+</p>
+
 
 ---  
 

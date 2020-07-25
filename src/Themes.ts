@@ -23,7 +23,7 @@ export interface ThemeColors {
 export const THEMES: { dark: ThemeColors; light: ThemeColors } = {
   dark: {
     LegendColorPercentage: Colors.White,
-    LegendColor: Colors.Gray,
+    LegendColor: Colors.LightGray,
     RingColors: [Colors.Stand, Colors.Exercise, Colors.Move]
   },
   light: {

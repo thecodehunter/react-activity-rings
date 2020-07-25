@@ -17,7 +17,7 @@ const ActivityLegendBase = ({ data, title, theme }: ActivityLegendsProps) => {
   const labelStyle = { color: selectedTheme.LegendColor };
   return (
     <div style={styles.container}>
-      <h3>{title}</h3>
+      <h3 style={textStyle}>{title}</h3>
       {data.map((ring: ActivityRingData, idx: number) => {
         const bulletColor = ring.color || selectedTheme.RingColors[idx];
         const bulletStyle = { ...styles.bullets, backgroundColor: bulletColor };
