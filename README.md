@@ -3,7 +3,7 @@
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
 
-A library that provides customizable ring visualization of data, and you can also enable legends for chart representation.
+A library that provides customizable ring visualization of data and legends for chart representation.
 <p align="center">
     <img src="./docs/screenshot.png?raw=true" />
 </p>
